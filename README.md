@@ -1,16 +1,11 @@
 # to_do_app
 
-A new Flutter project.
+To Do List App, built with flutter
 
-## Getting Started
+Users can create and delete their own tasks, and mark them as complete!
 
-This project is a starting point for a Flutter application.
+Has a clean and visually appealing UI!
 
-A few resources to get you started if this is your first Flutter project:
+Data storage is implemented using Apache Hive!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="348" alt="Screenshot 2024-01-09 at 10 19 12 PM" src="https://github.com/azamjb/ToDoList-App/assets/85136312/8f427275-b4dd-4182-b206-2f2d01c0338e">
