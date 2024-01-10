@@ -1,6 +1,6 @@
 # to_do_app
 
-To Do List App, built with flutter
+To Do List app built with Flutter
 
 Users can create and delete their own tasks, and mark them as complete!
 
