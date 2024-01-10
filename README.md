@@ -1,4 +1,3 @@
-# to_do_app
 
 To Do List app built with Flutter
 
